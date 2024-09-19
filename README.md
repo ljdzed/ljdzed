@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on the Community Development of Rushdown Revolt
-- 🌱 I’m currently learning about Artificial Intelligence with Q-Learning, Networking, and Compilers.
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on the development of Rushdown Revolt
+- 🧑‍🎓 I'm currently studying towards my Masters in Computer Science
+- 🌱 I’m currently learning about Artificial Intelligence, Rendering, Computer Vision, and Computational Linguistics
+- 💬 Ask me about where I see AI models in 10 years
+- ⚡ Fun fact: Rank 1 Mens Épéeist Fencer in Ireland
 
 <!--
 **ljdzed/ljdzed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
