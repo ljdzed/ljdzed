@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on the development of Rushdown Revolt
+- 🔭 Previously worked on the development of Rushdown Revolt
 - 🧑‍🎓 I'm currently studying towards my Masters in Computer Science
 - 🌱 I’m currently learning about Artificial Intelligence, Rendering, Computer Vision, and Computational Linguistics
 - 💬 Ask me about where I see AI models in 10 years
