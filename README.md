@@ -1,12 +1,11 @@
 ### Hi there 👋
 - 🔭 Previously worked on the development of Rushdown Revolt
-- 🧑‍🎓 I'm currently studying towards my Masters in Computer Science
+- 🧑‍🎓 Masters in Computer Science from Trinity College Dublin
 - 🌱 I’m currently learning about Artificial Intelligence, Rendering, Computer Vision, and Computational Linguistics
-- 💬 Ask me about where I see AI models in 10 years
 
 
 <!--
-**ljdzed/ljdzed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ljdzed/ljdzed** is a  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
